@@ -1,0 +1,42 @@
+{
+  "teacher": [
+    {
+      "Topic": "HTML",
+      "Question": "What does HTML stand for?",
+      "options": "A. Hyper Text Markup Language.\n\nB. Hyperlink Test Markup Language",
+      "publishedAt": "2022-07-01",
+      "id": 1
+    },
+    {
+      "Topic": "CSS",
+      "Question": "CSS stands for?",
+      "options": "A. Cascasding Style sheet\nB. Canva Style Sheet",
+      "publishedAt": "2022-07-01",
+      "id": 2
+    },
+    {
+      "Topic": "React JS",
+      "Question": "React JS is library of?",
+      "options": "A. Javascript\n    B. HTML\n    C. CSS",
+      "publishedAt": "2022-07-01",
+      "id": 3
+    }
+  ],
+  "student": [
+    {
+      "id": "1",
+      "name": "Namo",
+      "email": "namo@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Narayan",
+      "email": "narayan@gmail.com"
+    },
+    {
+      "name": "Nbyula",
+      "email": "nbyula@gmail.com",
+      "id": "8KqE0rb"
+    }
+  ]
+}
